@@ -1,8 +1,8 @@
-ZX Spectrum Archive: 2003 Original Version: URL TBA
+ZX Spectrum Archive: 2003 Original Version: https://manic232.github.io/ZX-Spectrum-Archive-2003
 
 ## About The 2003 Archive:
 
-This is the original version of my <a href="www.zxsa.co.uk" target="_blank">ZX Spectrum Archive.</a>, preserved exactly as it stood in 2003.
+This is the original version of my <a href="https://zxsa.co.uk/" target="_blank">ZX Spectrum Archive.</a>, preserved exactly as it stood in 2003.
 
 I abandoned the site that year, and for a long time it sat untouched — a little fossil from the early web. My new archive has been completely rebuilt from the ground up, but I thought visitors might enjoy seeing how the project looked in its earliest form. The difference between then and now is… substantial.
 
