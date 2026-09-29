@@ -1,4 +1,4 @@
-ZX Spectrum Archive: 2003 Original: https://manic232.github.io/ZX-Spectrum-Archive-2003
+ZX Spectrum Archive: 2003 Original Version: https://manic232.github.io/ZX-Spectrum-Archive-2003
 
 ## About The 2003 Archive:
 
